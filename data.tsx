@@ -1,0 +1,15 @@
+export const data = [
+  { time: "2024-02-22T09:00:00", duration: 15, volume: 7.5 },
+  { time: "2024-02-22T10:00:00", duration: 20, volume: 10 },
+  { time: "2024-02-22T11:00:00", duration: 18, volume: 8.5 },
+  { time: "2024-02-21T09:00:00", duration: 15, volume: 7.5 },
+  { time: "2024-02-21T10:00:00", duration: 20, volume: 10 },
+  { time: "2024-02-21T11:00:00", duration: 18, volume: 8.5 },
+  { time: "2024-02-21T12:00:00", duration: 21, volume: 10 },
+  { time: "2024-02-23T09:00:00", duration: 15, volume: 7.5 },
+  { time: "2024-02-23T10:00:00", duration: 20, volume: 10 },
+  { time: "2024-02-23T11:00:00", duration: 18, volume: 8.5 },
+  { time: "2024-02-24T09:00:00", duration: 15, volume: 7.5 },
+  { time: "2024-02-24T10:00:00", duration: 20, volume: 10 },
+  { time: "2024-02-24T11:00:00", duration: 18, volume: 8.5 },
+];
