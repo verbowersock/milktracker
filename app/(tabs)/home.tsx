@@ -1,12 +1,9 @@
 import { ScrollView, StyleSheet } from "react-native";
-
-import EditScreenInfo from "../../components/EditScreenInfo";
 import { Text, View } from "../../components/Themed";
 import List from "../../components/List";
 import { SafeAreaView } from "react-native";
 import Colors from "../../constants/Colors";
 import { data } from "../../data";
-import { Ionicons } from "@expo/vector-icons";
 import { Entypo } from "@expo/vector-icons";
 
 export default function Pump() {
